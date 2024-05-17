@@ -1,0 +1,5 @@
+  "scripts": {
+    "deploy": "ts-node deploy",
+    "mint": "ts-node mint",
+    "transfer": "ts-node transfer"
+  },
