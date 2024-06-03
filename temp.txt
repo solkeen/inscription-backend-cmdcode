@@ -3,3 +3,6 @@
     "mint": "ts-node mint",
     "transfer": "ts-node transfer"
   },
+
+
+//temp
