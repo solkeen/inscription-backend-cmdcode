@@ -6,6 +6,9 @@ import dotenv from "dotenv";
 import bodyParser = require("body-parser");
 import { InscriptionRouter } from "./routes/inscriptionRouter";
 
+
+
+
 /*
  * Load up and parse configuration details from
  * the `.env` file to the `process.env`
