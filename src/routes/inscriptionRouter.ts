@@ -5,7 +5,7 @@ import { textInscribe } from "src/home/textInscribe";
 // Create a new instance of the Express Router
 export const InscriptionRouter = Router();
 
-// @route    GET api/
+// @route    GET api/inscription/text
 // @desc     API test
 // @access   Public
 InscriptionRouter.get(
